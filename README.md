@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  [<img align="center" alt="" width="150px" height="150px" src="presentatio.gif" />]
+  [<img align="center" alt="" width="150px" height="150px" src="presentation.gif" />]
 
 </div>
 
