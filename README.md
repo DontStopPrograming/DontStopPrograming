@@ -4,14 +4,15 @@
 
   <img align="center" alt="" width="700px" height="170px" src="baner.jpg.png" />
 
-<h1> What I'm up to</h1>
-<h2>  I'm currently working with React</h2>
 </div>
+<h1> What I'm up to</h1>
+<span>  I'm currently working with React</span>
 <br>
-
+<br>
 <h2>About me</h2>
-<p>A passionate Self-taught developer</p>
-<p>Ask from me anything you want, If I am alive I will answer within seconds</p>
+<li>A passionate Self-taught developer</li>
+<li>Ask from me anything you want, If I am alive I will answer within seconds</li>
 <img src="" height="450">
 
-
+<h2>Currently studying</h2>
+<li>React js</li>
