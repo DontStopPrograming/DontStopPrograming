@@ -1,9 +1,7 @@
 ### Hi!👋 It´s
 
 <div align="center">
-
-  <img align="center" alt="" width="700px" height="170px" src="baner.jpg.png" />
-
+<a href="https://dyamond.up.railway.app"> <img align="center" alt="" width="700px" height="170px" src="baner.jpg.png" /></a>
 </div>
 <h1> What I'm up to</h1>
 <span>  I'm currently working with React</span>
