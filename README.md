@@ -1,7 +1,7 @@
 ### 👋👀 Hi! It´s
 
 <div align="center">
-<p> <a href="https://developernazario.netlify.app">  developernazario.netlify.app </a> </p> 
+<p> <a href="https://developernazario.netlify.app"> developernazario.netlify.app </a> </p> 
 </div>
 <h1> What I'm up to</h1>
 💻<span>  I'm currently working with React</span> ⌨
