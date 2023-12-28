@@ -2,9 +2,22 @@
 
 <div align="center">
 <p> <a href="https://developernazario.netlify.app"> developernazario.netlify.app </a> </p> 
+  <br>
+  
 </div>
-<h1> What I'm up to</h1>
+
+
+<h1> What I'm up to</h1> 
 💻<span>  I'm currently working with React</span> ⌨
+
+<span> Languages </span> 
+
+<div display= "flex">
+  <img src = "js.gif" width= "25px" height = "25px">
+  <img src = "py.gif" width= "25px" height = "25px">
+  <img src = "php.gif" width= "25px" height = "25px"> 
+  <img src = "https://iconscout.com/lottie-animation/typescript-6516269" width= "25px" height = "25px">
+</div> 
 <br/>
 <br/>
 <h2>#About me</h2>
