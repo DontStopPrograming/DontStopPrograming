@@ -11,9 +11,9 @@
 <span> Languages: </span> 
 <div display= "flex">
   <img src = "js.gif" width= "25px" height = "25px">
+  <img src = "ty.png" width= "25px" height = "25px">
   <img src = "pyt.gif" width= "25px" height = "25px">
   <img src = "php.gif" width= "25px" height = "25px"> 
-  <img src = "ty.png" width= "25px" height = "25px">
 </div> 
 <br/>
 💻<span>  I'm currently working with React</span> ⌨
