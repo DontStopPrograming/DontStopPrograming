@@ -24,4 +24,4 @@
 <li>A passionate Self-taught developer ⚙</li>
 <li>Ask from me anything you want, If I am alive I will answer within seconds 😉</li>
 <h2>#Currently studying</h2>
-<li>React js 📚</li>
+<li>Node js 📚</li>
