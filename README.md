@@ -25,3 +25,4 @@
 <li>Ask from me anything you want, If I am alive I will answer within seconds 😉</li>
 <h2>#Currently studying</h2>
 <li>Node js 📚</li>
+<li>React js 📚</li>
