@@ -14,10 +14,12 @@ Javascript ![image](https://github.com/DontStopPrograming/DontStopPrograming/ass
 PHP ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/b0e78308-7787-44e1-bf5f-77a24d3ddef7) <br/> <br/>
 
 
-<h2>#About me</h2>
+<h3>About me</h3>
 <li>Im Peruvian and I live in northen lima 🏳</li>
 <li>A passionate Self-taught developer ⚙</li>
 <li>Ask from me anything you want, If I am alive I will answer within seconds 😉</li>
-<h2>#Currently studying</h2>
-<li>Node js 📚</li>
-<li>React js 📚</li>
+
+<br/>
+<h3>Currently studying</h3>
+<li> CLean Architecture 📚</li>
+<li> Testing 📚</li>
