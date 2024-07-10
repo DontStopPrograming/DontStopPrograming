@@ -19,12 +19,12 @@
 <p> <i> <b> Node.js </b> </i> <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/169a79cc-c41d-4828-8632-f40c9e60522e" alt="Node.js logo"> </p>
 <br>
 
-<h3> Structured language: </h3> 
+### <h3> Structured language: </h3> 
 
 <p> <i><b> HTML </b> </i> <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/09474bc7-d5ab-486b-a375-058f3fdd604a" alt="HTML logo"> </p>
 <br>
 
-<h3> Style handler: </h3>
+### <h3> Style handler: </h3>
 
 <p> <i><b> CSS </b> </i>  <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/16cd648b-7017-4f94-b3bd-4c2d49b5c56a" alt="CSS logo"> </p>
 <br>
@@ -33,12 +33,12 @@
 Boostrap, MUI, etc </p>
 <br>
 
-<h3> For use cases and strong typing of data structures: </h3>
+### <h3> For use cases and strong typing of data structures: </h3>
 
 <p> <i><b> TYPESCRIPT </b> </i> <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/c3fea734-75ed-4604-a9db-03bf9bcc6167" alt="TypeScript logo"> </p>
 <br>
 
-<h3>About me</h3>
+### <h3>About me</h3>
 
 <ul>
   <li> I'm Peruvian and I live in northern Lima </li> 
@@ -47,7 +47,7 @@ Boostrap, MUI, etc </p>
 </ul>
 <br>
 
-<h3>Currently studying</h3>
+### <h3>Currently studying</h3>
 <ul>
   <li> Clean Architecture 📚</li>
   <li> Testing 📚</li>
