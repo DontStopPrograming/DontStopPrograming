@@ -16,7 +16,10 @@
   <img src = "php.gif" width= "25px" height = "25px"> 
 </div> 
 <br/>
-💻<span>  I'm currently working with the languages: </span> ⌨
+💻<span>  I'm currently working with the languages: </span> 
+
+Javascript ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/e4475313-b085-4057-9338-114d496a0876)
+PHP ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/d00afe0d-e405-495a-87bf-b0536396ed5b)
 
 
 <h2>#About me</h2>
