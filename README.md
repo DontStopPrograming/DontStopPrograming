@@ -1,9 +1,11 @@
-<style
+<style>
   .frontend {
     color: #c026d3;
     
   }  
-/>
+</style>
+  
+
 
 ### Hi! It´s
 
