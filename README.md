@@ -1,18 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My GitHub Page</title>
-  <style>
-    .frontend {
-      color: #c026d3;
-      /* Otros estilos según sea necesario */
-    }
-  </style>
-</head>
-<body>
-
 <h1> Hi! It´s </h1>
 
 <div align="center">
@@ -61,6 +46,3 @@ Boostrap, MUI, etc </p>
   <li> Clean Architecture 📚</li>
   <li> Testing 📚</li>
 </ul>
-
-</body>
-</html>
