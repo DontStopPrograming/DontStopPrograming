@@ -15,7 +15,7 @@ PHP ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101
 
 <h3> Libraries that I use: </h3>
 
-<span> <b> FRONTEND </b> </span>
+<span> <i> FRONTEND </i> </span>
 React.js ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/fcbac273-ebd8-4509-a84e-e4f7e73830e8)
 
 
