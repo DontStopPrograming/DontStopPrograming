@@ -9,8 +9,8 @@
 
 <h3> I'm currently working with the languages: </h3>
 
-<p>Javascript <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/e4475313-b085-4057-9338-114d496a0876" alt="JavaScript logo"></p>
-<p>PHP <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/b0e78308-7787-44e1-bf5f-77a24d3ddef7" alt="PHP logo"></p>
+<p> <i><b> Javascript </b> </i> <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/e4475313-b085-4057-9338-114d496a0876" alt="JavaScript logo"></p>
+<p> <i><b> PHP </b> </i> <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/b0e78308-7787-44e1-bf5f-77a24d3ddef7" alt="PHP logo"></p>
 
 <h3> TECHNOLOGIES THAT I USE: </h3>
 
