@@ -37,7 +37,9 @@ Boostrap, MUI, etc <br/><br/>
 TYPESCRIPT ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/c3fea734-75ed-4604-a9db-03bf9bcc6167) <br/><br/>
 
 <h3>About me</h3>
-<li>Im Peruvian and I live in northen lima 🏳</li>
+
+<li>Im Peruvian and I live in northen lima ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/705d78a8-1bd7-42cd-b67e-190d5438430a)
+</li> 
 <li>A passionate Self-taught developer ⚙</li>
 <li>Ask from me anything you want, If I am alive I will answer within seconds 😉</li>
 
