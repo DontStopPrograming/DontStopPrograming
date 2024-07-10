@@ -34,7 +34,7 @@
 <i><b> CSS </b> </i>  <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/16cd648b-7017-4f94-b3bd-4c2d49b5c56a" alt="CSS logo">
 <br>
 
-❗I also adapt to other libraries to manage styles like: </i>
+❗ I also adapt to other libraries to manage styles like: </i>
 Boostrap, MUI, etc
 <br><br>
 
