@@ -7,7 +7,6 @@
 </div>
 
 <h1> What I'm up to</h1> 
-<br/>
 
 <h2> I'm currently working with the languages: </h2>
 Javascript ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/e4475313-b085-4057-9338-114d496a0876) <br/>
