@@ -25,18 +25,16 @@ PHP ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101
 HTML ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/09474bc7-d5ab-486b-a375-058f3fdd604a) <br/>
 
 <h3> Style handler: </h3>
+
 <span> <i> FRONTEND </i> </span>
-CSS ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/09474bc7-d5ab-486b-a375-058f3fdd604a)
- <br/> 
+CSS ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/16cd648b-7017-4f94-b3bd-4c2d49b5c56a) <br/> 
 
 <i> ! I also adapt to other libraries to manage styles like: </i>
 Boostrap, MUI, etc
 
 <h3> For use cases and strong typing of data structures: </h3>
-TYPESCRIPT ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/afe53942-6d84-4100-8a6b-62e90cc77b69) <br/>
 
-
-
+TYPESCRIPT ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/b146aac6-b643-4988-953e-fd3e0893dfb1) <br/>
 
 <h3>About me</h3>
 <li>Im Peruvian and I live in northen lima 🏳</li>
