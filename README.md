@@ -16,7 +16,7 @@
   <img src = "php.gif" width= "25px" height = "25px"> 
 </div> 
 <br/>
-💻<span>  I'm currently working with React</span> ⌨
+💻<span>  I'm currently working with the languages: </span> ⌨
 
 
 <h2>#About me</h2>
