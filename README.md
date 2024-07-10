@@ -1,3 +1,10 @@
+<style
+  .frontend {
+    color: #c026d3;
+    
+  }  
+/>
+
 ### Hi! It´s
 
 <div align="center">
@@ -15,7 +22,7 @@ PHP ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101
 
 <h3> TECHNOLOGIES THAT I USE: </h3>
 
-<span> <i> FRONTEND </i> </span> React.js ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/fcbac273-ebd8-4509-a84e-e4f7e73830e8) <br/>
+<span> <i class = "frontend"> FRONTEND </i> </span> React.js ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/fcbac273-ebd8-4509-a84e-e4f7e73830e8) <br/>
 
 <span> <i> BACKEND </i> </span> Nodej.js ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/169a79cc-c41d-4828-8632-f40c9e60522e) <br/><br/>
 
@@ -38,8 +45,7 @@ TYPESCRIPT ![image](https://github.com/DontStopPrograming/DontStopPrograming/ass
 
 <h3>About me</h3>
 
-<li>Im Peruvian and I live in northen lima <span class="i-twemoji-flag-peru"></span>
-</li> 
+<li>Im Peruvian and I live in northen lima </li> 
 <li>A passionate Self-taught developer ⚙</li>
 <li>Ask from me anything you want, If I am alive I will answer within seconds 😉</li>
 
