@@ -24,7 +24,7 @@ PHP ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101
 
 <h3> TECHNOLOGIES THAT I USE: </h3>
 
-<span> <i class = "frontend"> FRONTEND </i> </span> React.js ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/fcbac273-ebd8-4509-a84e-e4f7e73830e8) <br/>
+<span class = "frontend"> <i> FRONTEND </i> </span> React.js ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/fcbac273-ebd8-4509-a84e-e4f7e73830e8) <br/>
 
 <span> <i> BACKEND </i> </span> Nodej.js ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/169a79cc-c41d-4828-8632-f40c9e60522e) <br/><br/>
 
