@@ -26,13 +26,14 @@ HTML ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/10
 
 <h3> Style handler: </h3>
 <span> <i> FRONTEND </i> </span>
-CSS ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/5a9a1408-681c-4b81-8af3-c164ab5d2adf) 
+CSS ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/e9899c2b-d79c-4281-a2ac-e3f2e38443a4) <br/> 
 
-<i> !I also adapt to other libraries to manage styles like: </i>
-Boostrap, MUI etc
+<i> ! I also adapt to other libraries to manage styles like: </i>
+Boostrap, MUI, etc
 
 <h3> For use cases and strong typing of data structures: </h3>
-TYPESCRIPT ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/2a466d43-e1f5-4438-9283-3a94781e608b)
+TYPESCRIPT ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/afe53942-6d84-4100-8a6b-62e90cc77b69) <br/>
+
 
 
 
