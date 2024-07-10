@@ -12,7 +12,7 @@
 <p> <i><b> Javascript </b> </i> <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/e4475313-b085-4057-9338-114d496a0876" alt="JavaScript logo"></p>
 <p> <i><b> PHP </b> </i> <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/b0e78308-7787-44e1-bf5f-77a24d3ddef7" alt="PHP logo"></p>
 
-<h3> TECHNOLOGIES THAT I USE: </h3>
+<h1> TECHNOLOGIES THAT I USE: </h1>
 
 <p> <i> <b> React.js </b> </i> <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/fcbac273-ebd8-4509-a84e-e4f7e73830e8" alt="React.js logo"> 
 
@@ -27,7 +27,7 @@
 <p> <i><b> CSS </b> </i>  <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/16cd648b-7017-4f94-b3bd-4c2d49b5c56a" alt="CSS logo"> </p>
 
 
-<p> ### ❗ I also adapt to other libraries to manage styles like: </i>
+<p> ❗I also adapt to other libraries to manage styles like: </i>
 Boostrap, MUI, etc </p>
 
 <h3> For use cases and strong typing of data structures: </h3>
