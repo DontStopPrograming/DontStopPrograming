@@ -26,7 +26,8 @@ HTML ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/10
 
 <h3> Style handler: </h3>
 <span> <i> FRONTEND </i> </span>
-CSS ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/e9899c2b-d79c-4281-a2ac-e3f2e38443a4) <br/> 
+CSS ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/09474bc7-d5ab-486b-a375-058f3fdd604a)
+ <br/> 
 
 <i> ! I also adapt to other libraries to manage styles like: </i>
 Boostrap, MUI, etc
