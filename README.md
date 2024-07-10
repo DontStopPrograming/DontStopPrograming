@@ -13,13 +13,11 @@
 Javascript ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/e4475313-b085-4057-9338-114d496a0876) <br/>
 PHP ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/b0e78308-7787-44e1-bf5f-77a24d3ddef7) <br/> 
 
-<h3> Technologies that I use: </h3>
+<h3> TECHNOLOGIES THAT I USE: </h3>
 
-<span> <i> FRONTEND </i> </span>
-React.js ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/fcbac273-ebd8-4509-a84e-e4f7e73830e8) <br/>
+<span> <i> FRONTEND </i> </span> React.js ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/fcbac273-ebd8-4509-a84e-e4f7e73830e8) <br/>
 
-<span> <i> BACKEND </i> </span>
-Nodej.js ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/169a79cc-c41d-4828-8632-f40c9e60522e) <br/>
+<span> <i> BACKEND </i> </span> Nodej.js ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/169a79cc-c41d-4828-8632-f40c9e60522e) <br/>
 
 <h3> Structured language: </h3> 
 
@@ -28,7 +26,7 @@ HTML ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/10
 
 <h3> Style handler: </h3>
 <span> <i> FRONTEND </i> </span>
-CSS ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/5a9a1408-681c-4b81-8af3-c164ab5d2adf)
+CSS ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/5a9a1408-681c-4b81-8af3-c164ab5d2adf) 
 
 <i> !I also adapt to other libraries to manage styles like: </i>
 Boostrap, MUI etc
