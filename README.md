@@ -6,20 +6,12 @@
   
 </div>
 
-
 <h1> What I'm up to</h1> 
-<span> Languages: </span> 
-<div display= "flex">
-  <img src = "js.gif" width= "25px" height = "25px">
-  <img src = "ty.png" width= "25px" height = "25px">
-  <img src = "pyt.gif" width= "25px" height = "25px">
-  <img src = "php.gif" width= "25px" height = "25px"> 
-</div> 
 <br/>
 💻<span>  I'm currently working with the languages: </span> 
 
-Javascript ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/e4475313-b085-4057-9338-114d496a0876)
-PHP ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/d00afe0d-e405-495a-87bf-b0536396ed5b)
+Javascript ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/e4475313-b085-4057-9338-114d496a0876) <br/>
+PHP ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/d00afe0d-e405-495a-87bf-b0536396ed5b) <br/> <br/>
 
 
 <h2>#About me</h2>
