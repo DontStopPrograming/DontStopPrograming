@@ -38,7 +38,7 @@ TYPESCRIPT ![image](https://github.com/DontStopPrograming/DontStopPrograming/ass
 
 <h3>About me</h3>
 
-<li>Im Peruvian and I live in northen lima ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/705d78a8-1bd7-42cd-b67e-190d5438430a)
+<li>Im Peruvian and I live in northen lima <span class="i-twemoji-flag-peru"></span>
 </li> 
 <li>A passionate Self-taught developer ⚙</li>
 <li>Ask from me anything you want, If I am alive I will answer within seconds 😉</li>
