@@ -1,12 +1,18 @@
-<style>
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+  <meta charset = 'UTF-8'>
+  <meta name = 'viewport' content = 'width=device-width, initial-scale=1.0'>
+  <title> </title>
+  <style>
   .frontend {
     color: #c026d3;
     
   }  
 </style>
-  
+</head> 
 
-
+<body>
 ### Hi! It´s
 
 <div align="center">
@@ -55,3 +61,7 @@ TYPESCRIPT ![image](https://github.com/DontStopPrograming/DontStopPrograming/ass
 <h3>Currently studying</h3>
 <li> CLean Architecture 📚</li>
 <li> Testing 📚</li>
+
+</body>
+
+</html>
