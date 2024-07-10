@@ -14,7 +14,7 @@
 
 <h3> TECHNOLOGIES THAT I USE: </h3>
 
-:purple_heart: **Frontend** React.js <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/fcbac273-ebd8-4509-a84e-e4f7e73830e8" alt="React.js logo"> </span>
+:purple: **Frontend** React.js <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/fcbac273-ebd8-4509-a84e-e4f7e73830e8" alt="React.js logo"> </span>
 
 <p> <i> BACKEND </i> Node.js <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/169a79cc-c41d-4828-8632-f40c9e60522e" alt="Node.js logo"> </p>
 
