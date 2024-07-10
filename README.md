@@ -1,4 +1,4 @@
-### 👋👀 Hi! It´s
+### Hi! It´s
 
 <div align="center">
 <p> <a href="https://developernazario.netlify.app"> developernazario.netlify.app </a> </p> 
@@ -12,6 +12,11 @@
 
 Javascript ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/e4475313-b085-4057-9338-114d496a0876) <br/>
 PHP ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/b0e78308-7787-44e1-bf5f-77a24d3ddef7) <br/> <br/>
+
+<h3> Libraries that I use: </h3>
+
+<span> <b> FRONTEND </b> </span>
+React.js ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/fcbac273-ebd8-4509-a84e-e4f7e73830e8)
 
 
 <h3>About me</h3>
