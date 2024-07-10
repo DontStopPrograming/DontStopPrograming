@@ -27,7 +27,7 @@
 <p> <i><b> CSS </b> </i>  <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/16cd648b-7017-4f94-b3bd-4c2d49b5c56a" alt="CSS logo"> </p>
 
 
-<p> **!** I also adapt to other libraries to manage styles like: </i>
+<p> ### ❗ I also adapt to other libraries to manage styles like: </i>
 Boostrap, MUI, etc </p>
 
 <h3> For use cases and strong typing of data structures: </h3>
