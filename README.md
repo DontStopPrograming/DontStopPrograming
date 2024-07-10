@@ -1,67 +1,66 @@
 <!DOCTYPE html>
-<html lang='en'>
-  <head>
-  <meta charset = 'UTF-8'>
-  <meta name = 'viewport' content = 'width=device-width, initial-scale=1.0'>
-  <title> </title>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My GitHub Page</title>
   <style>
-  .frontend {
-    color: #c026d3;
-    
-  }  
-</style>
-</head> 
-
+    .frontend {
+      color: #c026d3;
+      /* Otros estilos según sea necesario */
+    }
+  </style>
+</head>
 <body>
-### Hi! It´s
+
+<h1> Hi! It´s </h1>
 
 <div align="center">
-<p> <a href="https://developernazario.netlify.app"> developernazario.netlify.app </a> </p> 
+  <p> <a href="https://developernazario.netlify.app"> developernazario.netlify.app </a> </p> 
   <br>
-  
 </div>
 
-<h1> What I'm up to</h1> 
+<h2> What I'm up to </h2> 
 
 <h3> I'm currently working with the languages: </h3>
 
-Javascript ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/e4475313-b085-4057-9338-114d496a0876) <br/>
-PHP ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/b0e78308-7787-44e1-bf5f-77a24d3ddef7) <br/><br/>
+<p>Javascript <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/e4475313-b085-4057-9338-114d496a0876" alt="JavaScript logo"></p>
+<p>PHP <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/b0e78308-7787-44e1-bf5f-77a24d3ddef7" alt="PHP logo"></p>
 
 <h3> TECHNOLOGIES THAT I USE: </h3>
 
-<span class = "frontend"> <i> FRONTEND </i> </span> React.js ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/fcbac273-ebd8-4509-a84e-e4f7e73830e8) <br/>
+<p class="frontend"> <i> FRONTEND </i> React.js <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/fcbac273-ebd8-4509-a84e-e4f7e73830e8" alt="React.js logo"> </p>
 
-<span> <i> BACKEND </i> </span> Nodej.js ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/169a79cc-c41d-4828-8632-f40c9e60522e) <br/><br/>
+<p> <i> BACKEND </i> Node.js <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/169a79cc-c41d-4828-8632-f40c9e60522e" alt="Node.js logo"> </p>
 
 <h3> Structured language: </h3> 
 
-<span> <i> FRONTEND </i> </span>
-HTML ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/09474bc7-d5ab-486b-a375-058f3fdd604a) <br/>
+<p class="frontend"> <i> FRONTEND </i> HTML <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/09474bc7-d5ab-486b-a375-058f3fdd604a" alt="HTML logo"> </p>
 
 <h3> Style handler: </h3>
 
-<span> <i> FRONTEND </i> </span>
-CSS ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/16cd648b-7017-4f94-b3bd-4c2d49b5c56a) <br/> 
+<p class="frontend"> <i> FRONTEND </i> CSS <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/16cd648b-7017-4f94-b3bd-4c2d49b5c56a" alt="CSS logo"> </p>
 
-<i> ! I also adapt to other libraries to manage styles like: </i>
-Boostrap, MUI, etc <br/><br/>
+<p> ! I also adapt to other libraries to manage styles like: </i>
+Boostrap, MUI, etc </p>
 
 <h3> For use cases and strong typing of data structures: </h3>
 
-TYPESCRIPT ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/c3fea734-75ed-4604-a9db-03bf9bcc6167) <br/><br/>
+<p> TYPESCRIPT <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/c3fea734-75ed-4604-a9db-03bf9bcc6167" alt="TypeScript logo"> </p>
 
 <h3>About me</h3>
 
-<li>Im Peruvian and I live in northen lima </li> 
-<li>A passionate Self-taught developer ⚙</li>
-<li>Ask from me anything you want, If I am alive I will answer within seconds 😉</li>
+<ul>
+  <li> I'm Peruvian and I live in northern Lima </li> 
+  <li> A passionate self-taught developer ⚙</li>
+  <li> Ask me anything you want, if I am alive I will answer within seconds 😉</li>
+</ul>
 
-<br/>
 <h3>Currently studying</h3>
-<li> CLean Architecture 📚</li>
-<li> Testing 📚</li>
+<ul>
+  <li> Clean Architecture 📚</li>
+  <li> Testing 📚</li>
+</ul>
 
 </body>
-
 </html>
