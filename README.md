@@ -26,9 +26,9 @@
 
 <h3>🔴 Structured language: </h3> 
 
-<ul style="list-style-type: circle">
-<li> <i><b> HTML </b> </i> <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/09474bc7-d5ab-486b-a375-058f3fdd604a" alt="HTML logo"> </li>
-</ul>
+
+ <i><b> HTML </b> </i> <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/09474bc7-d5ab-486b-a375-058f3fdd604a" alt="HTML logo"> 
+
 <br>
 
 <h3>🔴 Style handler: </h3>
