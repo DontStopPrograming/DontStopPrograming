@@ -8,7 +8,7 @@
 
 <h1> What I'm up to</h1> 
 <br/>
-### <span>  I'm currently working with the languages: </span> ###
+### I'm currently working with the languages: ###
 
 Javascript ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/e4475313-b085-4057-9338-114d496a0876) <br/>
 PHP ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/b0e78308-7787-44e1-bf5f-77a24d3ddef7) <br/> <br/>
