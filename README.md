@@ -44,15 +44,16 @@ Boostrap, MUI, etc
 <br><br>
 
 <h3>🔴 About me</h3>
-
+  <ul>
   <li> I'm Peruvian and I live in northern Lima </li> 
   <li> A passionate self-taught developer ⚙</li>
   <li> Ask me anything you want, if I am alive I will answer within seconds 😉</li>
-
+  </ul>
 <br>
 
 <h3>🔴 Currently studying</h3>
 
+  <ul>
   <li> Clean Architecture 📚</li>
   <li> Testing 📚</li>
-
+  </ul>
