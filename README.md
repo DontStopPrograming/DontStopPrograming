@@ -16,22 +16,22 @@
 
 <p> <i> <b> React.js </b> </i> <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/fcbac273-ebd8-4509-a84e-e4f7e73830e8" alt="React.js logo"> 
 
-<p> <i> BACKEND </i> Node.js <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/169a79cc-c41d-4828-8632-f40c9e60522e" alt="Node.js logo"> </p>
+<p> <i> <b> Node.js </b> </i> <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/169a79cc-c41d-4828-8632-f40c9e60522e" alt="Node.js logo"> </p>
 
 <h3> Structured language: </h3> 
 
-<span style="color:purple"> <i> FRONTEND </i> HTML <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/09474bc7-d5ab-486b-a375-058f3fdd604a" alt="HTML logo"> </span>
+<p> <i><b> HTML </b> </i> <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/09474bc7-d5ab-486b-a375-058f3fdd604a" alt="HTML logo"> </p>
 
 <h3> Style handler: </h3>
 
-<span style="color:purple"> <i> FRONTEND </i> CSS <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/16cd648b-7017-4f94-b3bd-4c2d49b5c56a" alt="CSS logo"> </span>
+<p> <i><b> CSS </b> </i>  <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/16cd648b-7017-4f94-b3bd-4c2d49b5c56a" alt="CSS logo"> </p>
 
 <p> ! I also adapt to other libraries to manage styles like: </i>
 Boostrap, MUI, etc </p>
 
 <h3> For use cases and strong typing of data structures: </h3>
 
-<p> TYPESCRIPT <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/c3fea734-75ed-4604-a9db-03bf9bcc6167" alt="TypeScript logo"> </p>
+<p> <i><b> TYPESCRIPT </b> </i> <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/c3fea734-75ed-4604-a9db-03bf9bcc6167" alt="TypeScript logo"> </p>
 
 <h3>About me</h3>
 
