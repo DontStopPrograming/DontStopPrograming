@@ -33,32 +33,29 @@
 
 <h3>🔴 Style handler: </h3>
 
-<ul>
-<li> <i><b> CSS </b> </i>  <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/16cd648b-7017-4f94-b3bd-4c2d49b5c56a" alt="CSS logo"> </li>
+
+<i><b> CSS </b> </i>  <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/16cd648b-7017-4f94-b3bd-4c2d49b5c56a" alt="CSS logo">
 <br>
 
-<li> ❗I also adapt to other libraries to manage styles like: </i>
-Boostrap, MUI, etc </li>
-</ul>
+❗I also adapt to other libraries to manage styles like: </i>
+Boostrap, MUI, etc
 <br>
 
 <h3>🔴 For use cases and strong typing of data structures: </h3>
-<ul>
-<li> <i><b> TYPESCRIPT </b> </i> <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/c3fea734-75ed-4604-a9db-03bf9bcc6167" alt="TypeScript logo"> </li>
-</ul>
+
+<i><b> TYPESCRIPT </b> </i> <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/c3fea734-75ed-4604-a9db-03bf9bcc6167" alt="TypeScript logo"> 
 <br>
 
 <h3>🔴 About me</h3>
 
-<ul>
   <li> I'm Peruvian and I live in northern Lima </li> 
   <li> A passionate self-taught developer ⚙</li>
   <li> Ask me anything you want, if I am alive I will answer within seconds 😉</li>
-</ul>
+
 <br>
 
 <h3>🔴 Currently studying</h3>
-<ul>
+
   <li> Clean Architecture 📚</li>
   <li> Testing 📚</li>
-</ul>
+
