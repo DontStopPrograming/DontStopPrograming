@@ -27,7 +27,7 @@
 <h3>🔴 Structured language: </h3> 
 
 <i><b> HTML </b> </i> <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/09474bc7-d5ab-486b-a375-058f3fdd604a" alt="HTML logo"> 
-<br><br>
+<br><br><br>
 
 <h3>🔴 Style handler: </h3>
 
@@ -36,12 +36,12 @@
 
 <i>❗ I also adapt to other libraries to manage styles like: </i>
 Boostrap, MUI, etc
-<br><br>
+<br><br><br>
 
 <h3>🔴 For use cases and strong typing of data structures: </h3>
 
 <i><b> TYPESCRIPT </b> </i> <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/c3fea734-75ed-4604-a9db-03bf9bcc6167" alt="TypeScript logo"> 
-<br><br>
+<br><br><br>
 
 <h3>🔴 For the management and structured querying of databases: </h3>
 
@@ -50,7 +50,7 @@ Boostrap, MUI, etc
 
 <i>❗ Adapting to databases like : </i>
 MySql, No-Sql, MongoDB, etc
-<br><br>
+<br><br><br>
 
 <h3>🔴 About me</h3>
   <ul>
