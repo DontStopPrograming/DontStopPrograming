@@ -9,8 +9,9 @@
 
 <h3>🔴 I'm currently working with the languages: </h3>
 
+`<div style = "background:green;">esto </div>`
 <ul>
-<li> <i><b> `Javascript` </b> </i> <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/e4475313-b085-4057-9338-114d496a0876" alt="JavaScript logo"></li>
+<li> <i><b> Javascript </b> </i> <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/e4475313-b085-4057-9338-114d496a0876" alt="JavaScript logo"></li>
 <li> <i><b> PHP </b> </i> <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/b0e78308-7787-44e1-bf5f-77a24d3ddef7" alt="PHP logo"></li> 
 </ul>  
 <br>
