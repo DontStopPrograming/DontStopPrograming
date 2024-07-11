@@ -34,7 +34,7 @@
 <i><b> CSS </b> </i>  <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/16cd648b-7017-4f94-b3bd-4c2d49b5c56a" alt="CSS logo">
 <br>
 
-❗ I also adapt to other libraries to manage styles like: </i>
+<i>❗ I also adapt to other libraries to manage styles like: </i>
 Boostrap, MUI, etc
 <br><br>
 
@@ -46,7 +46,10 @@ Boostrap, MUI, etc
 <h3>🔴 For the management and structured querying of databases: </h3>
 
 <i><b> SQL </b></i> ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/722ea058-8388-4e70-a042-53d8a61fb2bb)
+<br>
 
+<i>❗ Adapting to databases like : </i>
+MySql, No-Sql, MongoDB, etc
 <br><br>
 
 <h3>🔴 About me</h3>
