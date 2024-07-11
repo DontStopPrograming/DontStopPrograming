@@ -43,6 +43,12 @@ Boostrap, MUI, etc
 <i><b> TYPESCRIPT </b> </i> <img src="https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/c3fea734-75ed-4604-a9db-03bf9bcc6167" alt="TypeScript logo"> 
 <br><br>
 
+<h3>🔴 For the management and structured querying of databases: </h3>
+
+<i><b> SQL </b></i> ![image](https://github.com/DontStopPrograming/DontStopPrograming/assets/101149872/722ea058-8388-4e70-a042-53d8a61fb2bb)
+
+<br><br>
+
 <h3>🔴 About me</h3>
   <ul>
   <li> I'm Peruvian and I live in northern Lima </li> 
