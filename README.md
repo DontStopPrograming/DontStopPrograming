@@ -63,6 +63,5 @@ MySql, No-Sql, MongoDB, etc
 <h3>🔴 Currently studying</h3>
 
   <ul>
-  <li> Clean Architecture 📚</li>
-  <li> Testing 📚</li>
+  <li> Always staying updated with new technologies and strengthening my knowledge in software development 📚</li>
   </ul>
